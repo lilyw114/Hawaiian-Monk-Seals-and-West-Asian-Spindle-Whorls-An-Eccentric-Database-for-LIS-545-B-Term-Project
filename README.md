@@ -38,22 +38,22 @@
     - 03 SPOOLS.xlsx
 
 **Purpose of Files in Respository:**
-1)**ISO-19139 Metadata:** Metadata corresponding to the ongoing collection of live telemetry studies of Hawaiian monk seals by NOAA's Hawaiian Monk Seal Research Program.
-2)**PSD_HMSRP_Telemetry_Tag_Deployments.csv:** Table containing seal IDs, ages, sexes, names and nicknames, as well as dates of tracking and satellite/transmission locations.
-3)**NOAA_data_management_plan.pdf:** A brief description of NOAA's Master Data Management Plan, including the study's name, summary, scope, agents, institutions, and contact information.
-4)**metadata_artefakte:** A metadata file containing relevant archaeological information such as catalog number, excavation number, materials found, weight, site name, geospatial location of recovery, etc. concerning materials recovered in southwest Asia and southeast Europe relating to wool fiber processing in the 7th-2nd millenium BC.
-5)**wollschaf_artefakte.csv:** A table containing similar information to the metadata file; a comprehensive and detailed list of artifacts in repository, the largest portion of which being textile tools and textile imprints on ceramic potsherds.
-6)**pollen_field_doku:** Metadata file containing geospatial and geochemical information regarding level of soil enrichment with specific pollens during neolithic/bronze age domestication of sheep for raw fiber processing into textiles.
-7)**wollschaf_pollen (1).csv:** Table containing latitude, longitude, site names, depositional environments, dating methods, ages, and species of pollen collected.
-8)**Wollschaf_Bone_Database_Metadata_2019_09_12.pdf:** A short paper providing geographical and chronological frames to the archaeozoological analysis of domestic sheep bones collected and anaylyzed between southwest Asia and southeast Europe in the 7th-2nd millenium BC.
-9)**knochen_field_doku:** Metadata concerning a set of several hundred Neolithic/bronze age bones from *Ovis/Capra* domestic animals, includingkey statistics.
-10)**01 Site Core Data.xls:** Table containing site coordinates, settlement category, chronological range, culture group, bone counts, site name, and site IDs.
-11)**02 Site Bone Data.xls:** Table concerning site name, location, as well as bone counts, and statistics (sex, age, withers height, etc.).
-12)**03 Ovis Bone Metrics.xls:** Table containing information on specific bone metrics, including bone ID, skeletal element identifiers, and reference bone metrics.
-13)**04 Bibliography.xls:** A comprehensive bibliography (reference in database, full academic reference) of all authors cited in the "Bone Database" project.
-14)**metadata_tools:** Metadata concerning a set of 1048 textile tools sampled within a site cluster on the Pannonian Plain, relating to raw fiber processing.
-15)**TEXTILE TOOL DATASET.pdf:** A short paper providing a geographical and chronological frame to the study "Archaeological Evidence for Early Wool Exploitation in South-East and East Central Europe". 
-16)**03 SPOOLS.xlsx:** A table containing the list of objects, identifiers, materials, dates, and resident institutions of objects examined during study of textile tools.
+1) **ISO-19139 Metadata:** Metadata corresponding to the ongoing collection of live telemetry studies of Hawaiian monk seals by NOAA's Hawaiian Monk Seal Research Program.
+2) **PSD_HMSRP_Telemetry_Tag_Deployments.csv:** Table containing seal IDs, ages, sexes, names and nicknames, as well as dates of tracking and satellite/transmission locations.
+3) **NOAA_data_management_plan.pdf:** A brief description of NOAA's Master Data Management Plan, including the study's name, summary, scope, agents, institutions, and contact information.
+4) **metadata_artefakte:** A metadata file containing relevant archaeological information such as catalog number, excavation number, materials found, weight, site name, geospatial location of recovery, etc. concerning materials recovered in southwest Asia and southeast Europe relating to wool fiber processing in the 7th-2nd millenium BC.
+5) **wollschaf_artefakte.csv:** A table containing similar information to the metadata file; a comprehensive and detailed list of artifacts in repository, the largest portion of which being textile tools and textile imprints on ceramic potsherds.
+6) **pollen_field_doku:** Metadata file containing geospatial and geochemical information regarding level of soil enrichment with specific pollens during neolithic/bronze age domestication of sheep for raw fiber processing into textiles.
+7) **wollschaf_pollen (1).csv:** Table containing latitude, longitude, site names, depositional environments, dating methods, ages, and species of pollen collected.
+8) **Wollschaf_Bone_Database_Metadata_2019_09_12.pdf:** A short paper providing geographical and chronological frames to the archaeozoological analysis of domestic sheep bones collected and anaylyzed between southwest Asia and southeast Europe in the 7th-2nd millenium BC.
+9) **knochen_field_doku:** Metadata concerning a set of several hundred Neolithic/bronze age bones from *Ovis/Capra* domestic animals, includingkey statistics.
+10) **01 Site Core Data.xls:** Table containing site coordinates, settlement category, chronological range, culture group, bone counts, site name, and site IDs.
+11) **02 Site Bone Data.xls:** Table concerning site name, location, as well as bone counts, and statistics (sex, age, withers height, etc.).
+12) **03 Ovis Bone Metrics.xls:** Table containing information on specific bone metrics, including bone ID, skeletal element identifiers, and reference bone metrics.
+13) **04 Bibliography.xls:** A comprehensive bibliography (reference in database, full academic reference) of all authors cited in the "Bone Database" project.
+14) **metadata_tools:** Metadata concerning a set of 1048 textile tools sampled within a site cluster on the Pannonian Plain, relating to raw fiber processing.
+15) **TEXTILE TOOL DATASET.pdf:** A short paper providing a geographical and chronological frame to the study "Archaeological Evidence for Early Wool Exploitation in South-East and East Central Europe". 
+16) **03 SPOOLS.xlsx:** A table containing the list of objects, identifiers, materials, dates, and resident institutions of objects examined during study of textile tools.
     
     
     
