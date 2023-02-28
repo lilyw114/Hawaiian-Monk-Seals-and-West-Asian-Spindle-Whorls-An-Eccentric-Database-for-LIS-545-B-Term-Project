@@ -36,6 +36,12 @@
     - metadata_tools (.json)
     - TEXTILE TOOL DATASET.pdf
     - 03 SPOOLS.xlsx
+    
+** Additional Files**
+
+    -README.md
+    -Final Report and Additional Information About this Repository_.pdf
+
 
 **Purpose of Files in Respository:**
 1) **ISO-19139 Metadata:** Metadata corresponding to the ongoing collection of live telemetry studies of Hawaiian monk seals by NOAA's Hawaiian Monk Seal Research Program.
@@ -54,6 +60,7 @@
 14) **metadata_tools:** Metadata concerning a set of 1048 textile tools sampled within a site cluster on the Pannonian Plain, relating to raw fiber processing.
 15) **TEXTILE TOOL DATASET.pdf:** A short paper providing a geographical and chronological frame to the study "Archaeological Evidence for Early Wool Exploitation in South-East and East Central Europe". 
 16) **03 SPOOLS.xlsx:** A table containing the list of objects, identifiers, materials, dates, and resident institutions of objects examined during study of textile tools.
+17) **Final Report and Additional Information About this Repository_.pdf:** A paper containing improved versions of intermediate assignments (Data and Metadata Profile, Repository Profile) for LIS 545 B, as well as additional ethical and technincal considerations regarding the creation of this repository.
     
     
     
