@@ -1,0 +1,267 @@
+[
+    {
+        "column_name": "site_name",
+        "alias": "Site",
+        "section": "Locational information"
+    },
+    {
+        "column_name": "site_latitude",
+        "alias": "Latitude",
+        "section": "Locational information"
+    },
+    {
+        "column_name": "site_longitude",
+        "alias": "Longitude",
+        "section": "Locational information"
+    },
+    {
+        "column_name": "site_archive_area",
+        "alias": "Archive area (ha)",
+        "section": "Locational information"
+    },
+    {
+        "column_name": "site_archive_hight",
+        "alias": "Archive hight (m a.s.l.)",
+        "section": "Locational information"
+    },
+    {
+        "column_name": "site_depositional_environment",
+        "alias": "Depositional environment",
+        "section": "Locational information"
+    },
+    {
+        "column_name": "pollen_roc",
+        "alias": "Rate of change",
+        "section": "Pollen data"
+    },
+    {
+        "column_name": "pollen_pal_rich",
+        "alias": "Palynological richness",
+        "section": "Pollen data"
+    },
+    {
+        "column_name": "pollen_ap_nap",
+        "alias": "Arboreal pollen (%)",
+        "section": "Pollen data"
+    },
+    {
+        "column_name": "pollen_cerealia.t",
+        "alias": "Cerealia type",
+        "section": "Pollen data"
+    },
+    {
+        "column_name": "pollen_plantago.l",
+        "alias": "Plantago lanceolata",
+        "section": "Pollen data"
+    },
+    {
+        "column_name": "pollen_plantago.mm",
+        "alias": "Plantago major/media",
+        "section": "Pollen data"
+    },
+    {
+        "column_name": "pollen_plantago.t",
+        "alias": "Plantago type",
+        "section": "Pollen data"
+    },
+    {
+        "column_name": "pollen_polygonum.a",
+        "alias": "Polygonum aviculare",
+        "section": "Pollen data"
+    },
+    {
+        "column_name": "pollen_rumex.aa",
+        "alias": "Rumex acetosa/acetosella",
+        "section": "Pollen data"
+    },
+    {
+        "column_name": "pollen_rumex.t",
+        "alias": "Rumex type",
+        "section": "Pollen data"
+    },
+    {
+        "column_name": "pollen_urtica",
+        "alias": "Urtica",
+        "section": "Pollen data"
+    },
+    {
+        "column_name": "pollen_time",
+        "alias": "Time pollen sample (cal yr BP)",
+        "section": "Pollen data"
+    },
+    {
+        "column_name": "pollen_time_recal",
+        "alias": "Time pollen sample (cal yr BP, recalibrated)",
+        "section": "Pollen data"
+    },
+    {
+        "column_name": "pollen_depth",
+        "alias": "Depth",
+        "section": "Pollen data"
+    },
+    {
+        "column_name": "characc_val",
+        "alias": "Charcoal accumulation (cm²/cm²/a)",
+        "section": "Charcoal data"
+    },
+    {
+        "column_name": "characc_time",
+        "alias": "Time charcoal accumulation (cal yr BP)",
+        "section": "Charcoal data"
+    },
+    {
+        "column_name": "characc_time_recal",
+        "alias": "Time charcoal accumulation (cal yr BP, recalibrated)",
+        "section": "Charcoal data"
+    },
+    {
+        "column_name": "charconc1_val",
+        "alias": "Charcoal concentration (cm²/cm³)",
+        "section": "Charcoal data"
+    },
+    {
+        "column_name": "charconc1_time",
+        "alias": "Time harcoal concentration 1 (cal yr BP)",
+        "section": "Charcoal data"
+    },
+    {
+        "column_name": "charconc1_time_recal",
+        "alias": "Time charcoal concentration 1 (cal yr BP, recalibrated)",
+        "section": "Charcoal data"
+    },
+    {
+        "column_name": "charconc2_val",
+        "alias": "Charcoal concentration (pc/cm³)",
+        "section": "Charcoal data"
+    },
+    {
+        "column_name": "charconc2_time",
+        "alias": "Time charcoal concentration 2 (cal yr BP)",
+        "section": "Charcoal data"
+    },
+    {
+        "column_name": "charconc2_time_recal",
+        "alias": "Time charcoal concentration 2 (cal yr BP, recalibrated)",
+        "section": "Charcoal data"
+    },
+    {
+        "column_name": "geochem_Na",
+        "alias": "Sodium",
+        "section": "Geochemical data"
+    },
+    {
+        "column_name": "geochem_SM_value",
+        "alias": "Heavy metal value",
+        "section": "Geochemical data"
+    },
+    {
+        "column_name": "geochem_SM",
+        "alias": "Heavy metal",
+        "section": "Geochemical data"
+    },
+    {
+        "column_name": "geochem_Ca",
+        "alias": "Calcium",
+        "section": "Geochemical data"
+    },
+    {
+        "column_name": "geochem_P",
+        "alias": "Phosphorus",
+        "section": "Geochemical data"
+    },
+    {
+        "column_name": "geochem_K",
+        "alias": "Potassium",
+        "section": "Geochemical data"
+    },
+    {
+        "column_name": "geochem_Mn",
+        "alias": "Manganese",
+        "section": "Geochemical data"
+    },
+    {
+        "column_name": "geochem_Mg",
+        "alias": "Magnesium",
+        "section": "Geochemical data"
+    },
+    {
+        "column_name": "geochem_Al",
+        "alias": "Aluminium",
+        "section": "Geochemical data"
+    },
+    {
+        "column_name": "geochem_Fe",
+        "alias": "Iron",
+        "section": "Geochemical data"
+    },
+    {
+        "column_name": "geochem_time",
+        "alias": "Time (cal yr BP)",
+        "section": "Geochemical data"
+    },
+    {
+        "column_name": "toc_val",
+        "alias": "Total organic carbon",
+        "section": "Total organic content"
+    },
+    {
+        "column_name": "toc_time",
+        "alias": "Time total organic carbon (cal yr BP)",
+        "section": "Total organic content"
+    },
+    {
+        "column_name": "toc_time_recal",
+        "alias": "Time total organic carbon (cal yr BP, recalibrated)",
+        "section": "Total organic content"
+    },
+    {
+        "column_name": "age_depth (cm)",
+        "alias": "Depth of dated sample",
+        "section": "General chronological information"
+    },
+    {
+        "column_name": "age_depth_range (cm)",
+        "alias": "Depth range of dated sample",
+        "section": "General chronological information"
+    },
+    {
+        "column_name": "age_lab_code",
+        "alias": "Lab code of dated sample",
+        "section": "General chronological information"
+    },
+    {
+        "column_name": "age_dated_material",
+        "alias": "Material of dated sample",
+        "section": "General chronological information"
+    },
+    {
+        "column_name": "age_dating_method",
+        "alias": "Used dating method",
+        "section": "General chronological information"
+    },
+    {
+        "column_name": "age_date_uncal_BP (a)",
+        "alias": "Age (yr BP)",
+        "section": "General chronological information"
+    },
+    {
+        "column_name": "age_date_uncal_range (a)",
+        "alias": "Time range (yr)",
+        "section": "General chronological information"
+    },
+    {
+        "column_name": "age_date_cal_BP_used (a)",
+        "alias": "Age used to construct age-depth-model",
+        "section": "General chronological information"
+    },
+    {
+        "column_name": "age_Calibration_curve",
+        "alias": "Calibration curve used",
+        "section": "General chronological information"
+    },
+    {
+        "column_name": "age_Calibration_prog",
+        "alias": "Calibration program used",
+        "section": "General chronological information"
+    }
+]
