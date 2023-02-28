@@ -2,7 +2,7 @@
 
 <sub> **Advisory information:** Three files in this repository are sourced from the dataset titled “Hawaiian Monk Seal Telemetry Tag Deployments", published by NOAA’s Protected Species Division Hawaiian Monk Seal Research Program on *Data.gov*, and thirteen others from the repository “The Textile Revolution” (WOLL), created by German researchers at the *Exzellenzcluster Topoi 264*, located through *re3data.org*. Four of the twelve files corresponding to WOLL contain metadata in a .JSON format, which had to be committed to this repository as code. Similarly, one of the three files from NOAA's dataset containing its metadata was committed from its .XML format to the repository as code. Of note is the fact that four .CSV files relating to spools, archaeological sites, spindle whorls, and loom weights in WOLL's "Textile Tool Database" have vanished and are unavailable for download. For that, they could not be added to this repository.</sub>
 
-*Breakdown of Repository Contents:*
+**Breakdown of Repository Contents:**
 
 Files relating to NOAA's *"Hawaiian Monk Seal Telemetry Tag Deployments"* Database:
     - ISO-19139 Metadata (.xml)
