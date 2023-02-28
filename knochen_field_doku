@@ -1,0 +1,817 @@
+[
+    {
+        "TableName": "Site Core Data",
+        "FieldName": "Site-ID",
+        "Description": "Unique ID-number"
+    },
+    {
+        "TableName": "Site Core Data",
+        "FieldName": "Site Name",
+        "Description": "Site name according to publication"
+    },
+    {
+        "TableName": "Site Core Data",
+        "FieldName": "Country",
+        "Description": "Country (present day political division)"
+    },
+    {
+        "TableName": "Site Core Data",
+        "FieldName": "Country Code",
+        "Description": "Country code according to ISO 3166"
+    },
+    {
+        "TableName": "Site Core Data",
+        "FieldName": "Research Region",
+        "Description": "Continent (SE-Europe or SW-Asia)"
+    },
+    {
+        "TableName": "Site Core Data",
+        "FieldName": "Geo-Region",
+        "Description": "Natural landscape division (see metadata file for further explanations)"
+    },
+    {
+        "TableName": "Site Core Data",
+        "FieldName": "Latitude",
+        "Description": "Digital geographical latitude"
+    },
+    {
+        "TableName": "Site Core Data",
+        "FieldName": "Longitude",
+        "Description": "Digital geographical longitude"
+    },
+    {
+        "TableName": "Site Core Data",
+        "FieldName": "Site Category",
+        "Description": "Archeological site category (settlement, tell or cave)"
+    },
+    {
+        "TableName": "Site Core Data",
+        "FieldName": "Chronological Range",
+        "Description": "Time span covered by the site (see metadata file for further explanations)"
+    },
+    {
+        "TableName": "Site Core Data",
+        "FieldName": "Culture Group",
+        "Description": "Archaeological culture(s) (see metadata file for further explanations)"
+    },
+    {
+        "TableName": "Site Core Data",
+        "FieldName": "Period",
+        "Description": "Archaeological period (Neolithic, Bronze Age; see metadata file for further explanations)"
+    },
+    {
+        "TableName": "Site Core Data",
+        "FieldName": "Excavation Year",
+        "Description": "Year(s) of the excavation campaign(s) as given in the publication(s)"
+    },
+    {
+        "TableName": "Site Core Data",
+        "FieldName": "No. of Site Sub-Units",
+        "Description": "Number of chronological, stratigraphical or archaeological sub-divisions within the site for which separate data were available and recorded"
+    },
+    {
+        "TableName": "Site Core Data",
+        "FieldName": "NISP Mammalia",
+        "Description": "Total number of identified mammal specimens of of the site"
+    },
+    {
+        "TableName": "Site Core Data",
+        "FieldName": "Ovis Osteometric Data",
+        "Description": "Amount of individual sheep bone osteometric datasets per site"
+    },
+    {
+        "TableName": "Site Bone Data",
+        "FieldName": "Site Name",
+        "Description": "Site name according to publication"
+    },
+    {
+        "TableName": "Site Bone Data",
+        "FieldName": "Country",
+        "Description": "Country (present day political division)"
+    },
+    {
+        "TableName": "Site Bone Data",
+        "FieldName": "Research Region",
+        "Description": "Continent (SE-Europe or SW-Asia)"
+    },
+    {
+        "TableName": "Site Bone Data",
+        "FieldName": "Geo-Region",
+        "Description": "Natural landscape division (see metadata file for further explanations)"
+    },
+    {
+        "TableName": "Site Bone Data",
+        "FieldName": "Site Sub-Unit",
+        "Description": "Name of chronological, stratigraphical or archaeological sub-division within a site for which separate data were available and recorded"
+    },
+    {
+        "TableName": "Site Bone Data",
+        "FieldName": "Time Slice(s)",
+        "Description": "500 years time slice assigned to the site or sub-unit (see metadata file for further explanations)"
+    },
+    {
+        "TableName": "Site Bone Data",
+        "FieldName": "NISP Bos",
+        "Description": "Number of identified specimen of Bos taurus (see metadata file for further explanations)"
+    },
+    {
+        "TableName": "Site Bone Data",
+        "FieldName": "NISP Bos %",
+        "Description": "Percentage of Bos taurus of the total NISP of domestic ungulates (field NISP WiHa; see metadata file for further explanations)"
+    },
+    {
+        "TableName": "Site Bone Data",
+        "FieldName": "NISP Sus",
+        "Description": "Number of identified specimen of Sus domesticus (see metadata file for further explanations)"
+    },
+    {
+        "TableName": "Site Bone Data",
+        "FieldName": "NISP Sus %",
+        "Description": "Percentage of Sus domesticus of the total NISP of domestic ungulates (field NISP WiHa; see metadata file for further explanations)"
+    },
+    {
+        "TableName": "Site Bone Data",
+        "FieldName": "NISP OC",
+        "Description": "Number of identified specimen of Ovis / Capra (see metadata file for further explanations)"
+    },
+    {
+        "TableName": "Site Bone Data",
+        "FieldName": "NISP OC %",
+        "Description": "Percentage of Ovis / Capra of the total NISP of domestic ungulates (field NISP WiHa; see metadata file for further explanations)"
+    },
+    {
+        "TableName": "Site Bone Data",
+        "FieldName": "NISP Ovis",
+        "Description": "Number of identified specimen of Ovis aries (see metadata file for further explanations)"
+    },
+    {
+        "TableName": "Site Bone Data",
+        "FieldName": "NISP Ovis %",
+        "Description": "Percentage of Ovis aries of the total NISP of domestic ungulates (field NISP WiHa; see metadata file for further explanations)"
+    },
+    {
+        "TableName": "Site Bone Data",
+        "FieldName": "NISP Capra",
+        "Description": "Number of identified specimen of Capra hircus (see metadata file for further explanations)"
+    },
+    {
+        "TableName": "Site Bone Data",
+        "FieldName": "NISP Capra %",
+        "Description": "Percentage of Capra hircus of the total NISP of domestic ungulates (field NISP WiHa; see metadata file for further explanations)"
+    },
+    {
+        "TableName": "Site Bone Data",
+        "FieldName": "NISP WiHa",
+        "Description": "Sum of identified specimen of domestic ungulates (see metadata file for further explanations)"
+    },
+    {
+        "TableName": "Site Bone Data",
+        "FieldName": "NISP WiHa %",
+        "Description": "Sum of percentages of domestic ungulates (control column = 100 %)"
+    },
+    {
+        "TableName": "Site Bone Data",
+        "FieldName": "NISP JaWi",
+        "Description": "Sum of identified specimen of large and medium ungulate game species (wild Artiodactyla) (see metadata file for further explanations)"
+    },
+    {
+        "TableName": "Site Bone Data",
+        "FieldName": "Ratio Ovis : Capra",
+        "Description": "Calculation of the ratio of Ovis : Capra"
+    },
+    {
+        "TableName": "Site Bone Data",
+        "FieldName": "Ratio WiHa : Ovis",
+        "Description": "Calculation of the ratio of domestic ungulates : Ovis"
+    },
+    {
+        "TableName": "Site Bone Data",
+        "FieldName": "Ratio WiHa : OC",
+        "Description": "Calculation of the ratio of domestic ungulates : Ovis / Capra"
+    },
+    {
+        "TableName": "Site Bone Data",
+        "FieldName": "Ratio JaWi : Ovis",
+        "Description": "Calculation of the ratio of wild ungulates : Ovis"
+    },
+    {
+        "TableName": "Site Bone Data",
+        "FieldName": "Ratio WiHa : Jawi",
+        "Description": "Calculation of the ratio of domestic ungulates : wild ungulates"
+    },
+    {
+        "TableName": "Site Bone Data",
+        "FieldName": "AgeMan 1",
+        "Description": "Number of Ovis/Capra mandibles with tooth age data according to the stages of the Archäologisch-Zoologische Arbeitsgruppe Schleswig (see metadata file for further explanations and concordance with other systems)"
+    },
+    {
+        "TableName": "Site Bone Data",
+        "FieldName": "AgeMan 1 %",
+        "Description": "Percentage of the total number of mandible age data (field AgeMan Sum)"
+    },
+    {
+        "TableName": "Site Bone Data",
+        "FieldName": "AgeMan 1a",
+        "Description": "Number of Ovis/Capra mandibles with tooth age data according to the stages of the Archäologisch-Zoologische Arbeitsgruppe Schleswig (see metadata file for further explanations and concordance with other systems)"
+    },
+    {
+        "TableName": "Site Bone Data",
+        "FieldName": "AgeMan 1a %",
+        "Description": "Percentage of the total number of mandible age data (field AgeMan Sum)"
+    },
+    {
+        "TableName": "Site Bone Data",
+        "FieldName": "AgeMan 2",
+        "Description": "Number of Ovis/Capra mandibles with tooth age data according to the stages of the Archäologisch-Zoologische Arbeitsgruppe Schleswig (see metadata file for further explanations and concordance with other systems)"
+    },
+    {
+        "TableName": "Site Bone Data",
+        "FieldName": "AgeMan 2 %",
+        "Description": "Percentage of the total number of mandible age data (field AgeMan Sum)"
+    },
+    {
+        "TableName": "Site Bone Data",
+        "FieldName": "AgeMan 3",
+        "Description": "Number of Ovis/Capra mandibles with tooth age data according to the stages of the Archäologisch-Zoologische Arbeitsgruppe Schleswig (see metadata file for further explanations and concordance with other systems)"
+    },
+    {
+        "TableName": "Site Bone Data",
+        "FieldName": "AgeMan 3%",
+        "Description": "Percentage of the total number of mandible age data (field AgeMan Sum)"
+    },
+    {
+        "TableName": "Site Bone Data",
+        "FieldName": "AgeMan 4",
+        "Description": "Number of Ovis/Capra mandibles with tooth age data according to the stages of the Archäologisch-Zoologische Arbeitsgruppe Schleswig (see metadata file for further explanations and concordance with other systems)"
+    },
+    {
+        "TableName": "Site Bone Data",
+        "FieldName": "AgeMan 4 %",
+        "Description": "Percentage of the total number of mandible age data (field AgeMan Sum)"
+    },
+    {
+        "TableName": "Site Bone Data",
+        "FieldName": "AgeMan 5",
+        "Description": "Number of Ovis/Capra mandibles with tooth age data according to the stages of the Archäologisch-Zoologische Arbeitsgruppe Schleswig (see metadata file for further explanations and concordance with other systems)"
+    },
+    {
+        "TableName": "Site Bone Data",
+        "FieldName": "AgeMan 5 %",
+        "Description": "Percentage of the total number of mandible age data (field AgeMan Sum)"
+    },
+    {
+        "TableName": "Site Bone Data",
+        "FieldName": "AgeMan 6",
+        "Description": "Number of Ovis/Capra mandibles with tooth age data according to the stages of the Archäologisch-Zoologische Arbeitsgruppe Schleswig (see metadata file for further explanations and concordance with other systems)"
+    },
+    {
+        "TableName": "Site Bone Data",
+        "FieldName": "AgeMan 6 %",
+        "Description": "Percentage of the total number of mandible age data (field AgeMan Sum)"
+    },
+    {
+        "TableName": "Site Bone Data",
+        "FieldName": "AgeMan 7",
+        "Description": "Number of Ovis/Capra mandibles with tooth age data according to the stages of the Archäologisch-Zoologische Arbeitsgruppe Schleswig (see metadata file for further explanations and concordance with other systems)"
+    },
+    {
+        "TableName": "Site Bone Data",
+        "FieldName": "AgeMan 7 %",
+        "Description": "Percentage of the total number of mandible age data (field AgeMan Sum)"
+    },
+    {
+        "TableName": "Site Bone Data",
+        "FieldName": "AgeMan 7+",
+        "Description": "Number of Ovis/Capra mandibles with tooth age data according to the stages of the Archäologisch-Zoologische Arbeitsgruppe Schleswig (see metadata file for further explanations and concordance with other systems)"
+    },
+    {
+        "TableName": "Site Bone Data",
+        "FieldName": "AgeMan 7+ %",
+        "Description": "Percentage of the total number of mandible age data (field AgeMan Sum)"
+    },
+    {
+        "TableName": "Site Bone Data",
+        "FieldName": "AgeMan 7++",
+        "Description": "Number of Ovis/Capra mandibles with tooth age data according to the stages of the Archäologisch-Zoologische Arbeitsgruppe Schleswig (see metadata file for further explanations and concordance with other systems)"
+    },
+    {
+        "TableName": "Site Bone Data",
+        "FieldName": "AgeMan 7++ %",
+        "Description": "Percentage of the total number of mandible age data (field AgeMan Sum)"
+    },
+    {
+        "TableName": "Site Bone Data",
+        "FieldName": "AgeMan 7+++",
+        "Description": "Number of Ovis/Capra mandibles with tooth age data according to the stages of the Archäologisch-Zoologische Arbeitsgruppe Schleswig (see metadata file for further explanations and concordance with other systems)"
+    },
+    {
+        "TableName": "Site Bone Data",
+        "FieldName": "AgeMan 7+++ %",
+        "Description": "Percentage of the total number of mandible age data (field AgeMan Sum)"
+    },
+    {
+        "TableName": "Site Bone Data",
+        "FieldName": "AgeMan Sum",
+        "Description": "Total amount of available mandible age data"
+    },
+    {
+        "TableName": "Site Bone Data",
+        "FieldName": "AgeEpi 6m Unfused",
+        "Description": "Number of Ovis/Capra bones providing epiphyseal fusion data of the specific age class (see metadata file for further explanations)"
+    },
+    {
+        "TableName": "Site Bone Data",
+        "FieldName": "AgeEpi 6m Fused",
+        "Description": "Number of Ovis/Capra bones providing epiphyseal fusion data of the specific age class (see metadata file for further explanations)"
+    },
+    {
+        "TableName": "Site Bone Data",
+        "FieldName": "AgeEpi 6m Fused %",
+        "Description": "Percentage of fused epiphyses within the specific fusion age group (see metadata file for further explanations)"
+    },
+    {
+        "TableName": "Site Bone Data",
+        "FieldName": "AgeEpi 12m Unfused",
+        "Description": "Number of Ovis/Capra bones providing epiphyseal fusion data of the specific age class (see metadata file for further explanations)"
+    },
+    {
+        "TableName": "Site Bone Data",
+        "FieldName": "AgeEpi 12m Fused",
+        "Description": "Number of Ovis/Capra bones providing epiphyseal fusion data of the specific age class (see metadata file for further explanations)"
+    },
+    {
+        "TableName": "Site Bone Data",
+        "FieldName": "AgeEpi 12m Fused %",
+        "Description": "Percentage of fused epiphyses within the specific fusion age group (see metadata file for further explanations)"
+    },
+    {
+        "TableName": "Site Bone Data",
+        "FieldName": "AgeEpi 18_24m Unfused",
+        "Description": "Number of Ovis/Capra bones providing epiphyseal fusion data of the specific age class (see metadata file for further explanations)"
+    },
+    {
+        "TableName": "Site Bone Data",
+        "FieldName": "AgeEpi 18_24m Fused",
+        "Description": "Number of Ovis/Capra bones providing epiphyseal fusion data of the specific age class (see metadata file for further explanations)"
+    },
+    {
+        "TableName": "Site Bone Data",
+        "FieldName": "AgeEpi 18_24m Fused %",
+        "Description": "Percentage of fused epiphyses within the specific fusion age group (see metadata file for further explanations)"
+    },
+    {
+        "TableName": "Site Bone Data",
+        "FieldName": "AgeEpi 36_42m Unfused",
+        "Description": "Number of Ovis/Capra bones providing epiphyseal fusion data of the specific age class (see metadata file for further explanations)"
+    },
+    {
+        "TableName": "Site Bone Data",
+        "FieldName": "AgeEpi 36_42m Fused",
+        "Description": "Number of Ovis/Capra bones providing epiphyseal fusion data of the specific age class (see metadata file for further explanations)"
+    },
+    {
+        "TableName": "Site Bone Data",
+        "FieldName": "AgeEpi 36_42m Fused %",
+        "Description": "Percentage of fused epiphyses within the specific fusion age group (see metadata file for further explanations)"
+    },
+    {
+        "TableName": "Site Bone Data",
+        "FieldName": "AgeEpi 42_54m Unfused",
+        "Description": "Number of Ovis/Capra bones providing epiphyseal fusion data of the specific age class (see metadata file for further explanations)"
+    },
+    {
+        "TableName": "Site Bone Data",
+        "FieldName": "AgeEpi 42_54m Fused",
+        "Description": "Number of Ovis/Capra bones providing epiphyseal fusion data of the specific age class (see metadata file for further explanations)"
+    },
+    {
+        "TableName": "Site Bone Data",
+        "FieldName": "AgeEpi 42_54m Fused %",
+        "Description": "Percentage of fused epiphyses within the specific fusion age group (see metadata file for further explanations)"
+    },
+    {
+        "TableName": "Site Bone Data",
+        "FieldName": "AgeEpi Sum Unfused",
+        "Description": "Sum of unfused epiphyses"
+    },
+    {
+        "TableName": "Site Bone Data",
+        "FieldName": "AgeEpi Sum Fused",
+        "Description": "Sum of fused epiphyses"
+    },
+    {
+        "TableName": "Site Bone Data",
+        "FieldName": "AgeEpi Sum Total",
+        "Description": "Sum of all epiphyses providing age data"
+    },
+    {
+        "TableName": "Site Bone Data",
+        "FieldName": "AgeGen FoetalNeonat",
+        "Description": "Number of Ovis/Capra bones assigned to general age classes (see metadata file for further explanations)"
+    },
+    {
+        "TableName": "Site Bone Data",
+        "FieldName": "AgeGen FoetalNeonat %",
+        "Description": "Percentage of the specific age class of total number of general age data (field AgeGen Sum)"
+    },
+    {
+        "TableName": "Site Bone Data",
+        "FieldName": "AgeGen Juvenil",
+        "Description": "Number of Ovis/Capra bones assigned to general age classes (see metadata file for further explanations)"
+    },
+    {
+        "TableName": "Site Bone Data",
+        "FieldName": "AgeGen Juvenil %",
+        "Description": "Percentage of the specific age class of total number of general age data (field AgeGen Sum)"
+    },
+    {
+        "TableName": "Site Bone Data",
+        "FieldName": "AgeGen Subadult",
+        "Description": "Number of Ovis/Capra bones assigned to general age classes (see metadata file for further explanations)"
+    },
+    {
+        "TableName": "Site Bone Data",
+        "FieldName": "AgeGen Subadult %",
+        "Description": "Percentage of the specific age class of total number of general age data (field AgeGen Sum)"
+    },
+    {
+        "TableName": "Site Bone Data",
+        "FieldName": "AgeGen Adult",
+        "Description": "Number of Ovis/Capra bones assigned to general age classes (see metadata file for further explanations and concordance with other systems)"
+    },
+    {
+        "TableName": "Site Bone Data",
+        "FieldName": "AgeGen Adult %",
+        "Description": "Percentage of the specific age class of total number of general age data (field AgeGen Sum)"
+    },
+    {
+        "TableName": "Site Bone Data",
+        "FieldName": "AgeGen MaturSenil",
+        "Description": "Number of Ovis/Capra bones assigned to general age classes (see metadata file for further explanations)"
+    },
+    {
+        "TableName": "Site Bone Data",
+        "FieldName": "AgeGen MaturSenil %",
+        "Description": "Percentage of the specific age class of total number of general age data (field AgeGen Sum)"
+    },
+    {
+        "TableName": "Site Bone Data",
+        "FieldName": "AgeGen Sum",
+        "Description": "Sum of all genral age data"
+    },
+    {
+        "TableName": "Site Bone Data",
+        "FieldName": "Sex Female",
+        "Description": "Number of Ovis aries bones identified as female (see metadata file for further explanations)"
+    },
+    {
+        "TableName": "Site Bone Data",
+        "FieldName": "Sex Male",
+        "Description": "Number of Ovis aries bones identified as male (see metadata file for further explanations)"
+    },
+    {
+        "TableName": "Site Bone Data",
+        "FieldName": "Sex Sum",
+        "Description": "Sum of Ovis aries bones with identified sex (see metadata file for further explanations)"
+    },
+    {
+        "TableName": "Site Bone Data",
+        "FieldName": "Ratio Female : Male",
+        "Description": "Calculation of the ratio of female : male sheep"
+    },
+    {
+        "TableName": "Site Bone Data",
+        "FieldName": "Sex ID-Source",
+        "Description": "Method applied for sex identification, e.g. horn core or pelvis shape"
+    },
+    {
+        "TableName": "Site Bone Data",
+        "FieldName": "Path Dental",
+        "Description": "Number of Ovis aries bones with dental pathologies"
+    },
+    {
+        "TableName": "Site Bone Data",
+        "FieldName": "Path Articular",
+        "Description": "Number of Ovis aries bones with articular pathologies"
+    },
+    {
+        "TableName": "Site Bone Data",
+        "FieldName": "Path Trauma",
+        "Description": "Number of Ovis aries bones with evidence of trauma"
+    },
+    {
+        "TableName": "Site Bone Data",
+        "FieldName": "Path Other",
+        "Description": "Number of Ovis aries bones with other pathologies"
+    },
+    {
+        "TableName": "Site Bone Data",
+        "FieldName": "Cornu behörnt",
+        "Description": "Number of horned sheep"
+    },
+    {
+        "TableName": "Site Bone Data",
+        "FieldName": "Cornu unbehörnt",
+        "Description": "Number of hornless sheep"
+    },
+    {
+        "TableName": "Site Bone Data",
+        "FieldName": "Cornu Sum",
+        "Description": "Sum of sheep bones with horn data"
+    },
+    {
+        "TableName": "Site Bone Data",
+        "FieldName": "Cornu Notiz",
+        "Description": "Descriptions of horn shapes and other additional information given in the publication(s) (see metadata file for further explanations)"
+    },
+    {
+        "TableName": "Site Bone Data",
+        "FieldName": "Notiz SBD",
+        "Description": "Any kind of additional data that was assumed to be relevant for the research question, but did not fit into any of the data fields"
+    },
+    {
+        "TableName": "Site Bone Data",
+        "FieldName": "Reference Bone Data",
+        "Description": "Literature reference given as abbreviation; for the full reference see the bibliography table"
+    },
+    {
+        "TableName": "Site Bone Data",
+        "FieldName": "Linum",
+        "Description": "Evidence for Linum usitatissimum, if published in a report (see metadata file for further explanations)"
+    },
+    {
+        "TableName": "Site Bone Data",
+        "FieldName": "ID-No. Site Bone Data",
+        "Description": "Unique ID-number"
+    },
+    {
+        "TableName": "Site Bone Data",
+        "FieldName": "WRH N",
+        "Description": "Statistical descriptive data of withers height values calculated from the sum of single values in the table Ovis Bone Metrics (see metadata file for further explanations)"
+    },
+    {
+        "TableName": "Site Bone Data",
+        "FieldName": "WRH Mw",
+        "Description": "Statistical descriptive data of withers height values calculated from the sum of single values in the table Ovis Bone Metrics (see metadata file for further explanations)"
+    },
+    {
+        "TableName": "Site Bone Data",
+        "FieldName": "WRH Min",
+        "Description": "Statistical descriptive data of withers height values calculated from the sum of single values in the table Ovis Bone Metrics (see metadata file for further explanations)"
+    },
+    {
+        "TableName": "Site Bone Data",
+        "FieldName": "WRH Max",
+        "Description": "Statistical descriptive data of withers height values calculated from the sum of single values in the table Ovis Bone Metrics (see metadata file for further explanations)"
+    },
+    {
+        "TableName": "Site Bone Data",
+        "FieldName": "WRH SD",
+        "Description": "Statistical descriptive data of withers height values calculated from the sum of single values in the table Ovis Bone Metrics (see metadata file for further explanations)"
+    },
+    {
+        "TableName": "Site Bone Data",
+        "FieldName": "LSI N",
+        "Description": "Statistical descriptive data of logarithmic size index values calculated from the sum of single values in the table Ovis Bone Metrics (see metadata file for further explanations)"
+    },
+    {
+        "TableName": "Site Bone Data",
+        "FieldName": "LSI Mw",
+        "Description": "Statistical descriptive data of logarithmic size index values calculated from the sum of single values in the table Ovis Bone Metrics (see metadata file for further explanations)"
+    },
+    {
+        "TableName": "Site Bone Data",
+        "FieldName": "LSI Min",
+        "Description": "Statistical descriptive data of logarithmic size index values calculated from the sum of single values in the table Ovis Bone Metrics (see metadata file for further explanations)"
+    },
+    {
+        "TableName": "Site Bone Data",
+        "FieldName": "LSI Max",
+        "Description": "Statistical descriptive data of logarithmic size index values calculated from the sum of single values in the table Ovis Bone Metrics (see metadata file for further explanations)"
+    },
+    {
+        "TableName": "Site Bone Data",
+        "FieldName": "LSI SD",
+        "Description": "Statistical descriptive data of logarithmic size index values calculated from the sum of single values in the table Ovis Bone Metrics (see metadata file for further explanations)"
+    },
+    {
+        "TableName": "Ovis Bone Metrics",
+        "FieldName": "Site Name",
+        "Description": "Site name according to publication"
+    },
+    {
+        "TableName": "Ovis Bone Metrics",
+        "FieldName": "Site Sub-Unit",
+        "Description": "Name of chronological, stratigraphical or archaeological sub-division within a site for which separate data were available and recorded"
+    },
+    {
+        "TableName": "Ovis Bone Metrics",
+        "FieldName": "Reference Bone Metrics",
+        "Description": "Literature reference given as abbreviation; for the full reference see the bibliography table"
+    },
+    {
+        "TableName": "Ovis Bone Metrics",
+        "FieldName": "Bone No. in Publication",
+        "Description": "Identifier for the single bone if given in the publication"
+    },
+    {
+        "TableName": "Ovis Bone Metrics",
+        "FieldName": "Skeletal Element",
+        "Description": "Skeletal element"
+    },
+    {
+        "TableName": "Ovis Bone Metrics",
+        "FieldName": "N",
+        "Description": "Quantity of bones from which the measurements were taken (usually N = 1; see metadata file for further explanations)"
+    },
+    {
+        "TableName": "Ovis Bone Metrics",
+        "FieldName": "GL",
+        "Description": "Measurements according to von den Driesch (1976) (see metadata file for further explanations)"
+    },
+    {
+        "TableName": "Ovis Bone Metrics",
+        "FieldName": "WRH",
+        "Description": "Calculation of the withers height (see metadata file for further explanations)"
+    },
+    {
+        "TableName": "Ovis Bone Metrics",
+        "FieldName": "Bp",
+        "Description": "Measurements according to von den Driesch (1976) (see metadata file for further explanations)"
+    },
+    {
+        "TableName": "Ovis Bone Metrics",
+        "FieldName": "Bd",
+        "Description": "Measurements according to von den Driesch (1976) (see metadata file for further explanations)"
+    },
+    {
+        "TableName": "Ovis Bone Metrics",
+        "FieldName": "GLP",
+        "Description": "Measurements according to von den Driesch (1976) (see metadata file for further explanations)"
+    },
+    {
+        "TableName": "Ovis Bone Metrics",
+        "FieldName": "KLC",
+        "Description": "Measurements according to von den Driesch (1976) (see metadata file for further explanations)"
+    },
+    {
+        "TableName": "Ovis Bone Metrics",
+        "FieldName": "BT",
+        "Description": "Measurements according to von den Driesch (1976) (see metadata file for further explanations)"
+    },
+    {
+        "TableName": "Ovis Bone Metrics",
+        "FieldName": "BFp",
+        "Description": "Measurements according to von den Driesch (1976) (see metadata file for further explanations)"
+    },
+    {
+        "TableName": "Ovis Bone Metrics",
+        "FieldName": "BFd",
+        "Description": "Measurements according to von den Driesch (1976) (see metadata file for further explanations)"
+    },
+    {
+        "TableName": "Ovis Bone Metrics",
+        "FieldName": "TC",
+        "Description": "Measurements according to von den Driesch (1976) (see metadata file for further explanations)"
+    },
+    {
+        "TableName": "Ovis Bone Metrics",
+        "FieldName": "Td",
+        "Description": "Measurements according to von den Driesch (1976) (see metadata file for further explanations)"
+    },
+    {
+        "TableName": "Ovis Bone Metrics",
+        "FieldName": "GL Calcaneus",
+        "Description": "Measurements according to von den Driesch (1976) (see metadata file for further explanations)"
+    },
+    {
+        "TableName": "Ovis Bone Metrics",
+        "FieldName": "GB",
+        "Description": "Measurements according to von den Driesch (1976) (see metadata file for further explanations)"
+    },
+    {
+        "TableName": "Ovis Bone Metrics",
+        "FieldName": "GLl",
+        "Description": "Measurements according to von den Driesch (1976) (see metadata file for further explanations)"
+    },
+    {
+        "TableName": "Ovis Bone Metrics",
+        "FieldName": "GLm",
+        "Description": "Measurements according to von den Driesch (1976) (see metadata file for further explanations)"
+    },
+    {
+        "TableName": "Ovis Bone Metrics",
+        "FieldName": "LSI",
+        "Description": "Calculation of the logarithmic size index (see metadata file for further explanations)"
+    },
+    {
+        "TableName": "Ovis Bone Metrics",
+        "FieldName": "Notiz OBM",
+        "Description": "Additional information concerning individual measurements (see metadata file for further explanations)"
+    },
+    {
+        "TableName": "Ovis Bone Metrics",
+        "FieldName": "StatMet WRH Min",
+        "Description": "Some publications provide only tables with statistical summaries of specific osteometric measurements. In those cases these data are recorded here (see metadata file for further explanations)"
+    },
+    {
+        "TableName": "Ovis Bone Metrics",
+        "FieldName": "StatMet WRH Max",
+        "Description": "Some publications provide only tables with statistical summaries of specific osteometric measurements. In those cases these data are recorded here (see metadata file for further explanations)"
+    },
+    {
+        "TableName": "Ovis Bone Metrics",
+        "FieldName": "StatMet WRH MW",
+        "Description": "Some publications provide only tables with statistical summaries of specific osteometric measurements. In those cases these data are recorded here (see metadata file for further explanations)"
+    },
+    {
+        "TableName": "Ovis Bone Metrics",
+        "FieldName": "StatMet WRH SD",
+        "Description": "Some publications provide only tables with statistical summaries of specific osteometric measurements. In those cases these data are recorded here (see metadata file for further explanations)"
+    },
+    {
+        "TableName": "Ovis Bone Metrics",
+        "FieldName": "StatMet Bp Min",
+        "Description": "Some publications provide only tables with statistical summaries of specific osteometric measurements. In those cases these data are recorded here (see metadata file for further explanations)"
+    },
+    {
+        "TableName": "Ovis Bone Metrics",
+        "FieldName": "StatMet Bp Max",
+        "Description": "Some publications provide only tables with statistical summaries of specific osteometric measurements. In those cases these data are recorded here (see metadata file for further explanations)"
+    },
+    {
+        "TableName": "Ovis Bone Metrics",
+        "FieldName": "StatMet Bp MW",
+        "Description": "Some publications provide only tables with statistical summaries of specific osteometric measurements. In those cases these data are recorded here (see metadata file for further explanations)"
+    },
+    {
+        "TableName": "Ovis Bone Metrics",
+        "FieldName": "StatMet Bp SD",
+        "Description": "Some publications provide only tables with statistical summaries of specific osteometric measurements. In those cases these data are recorded here (see metadata file for further explanations)"
+    },
+    {
+        "TableName": "Ovis Bone Metrics",
+        "FieldName": "StatMet Bd Min",
+        "Description": "Some publications provide only tables with statistical summaries of specific osteometric measurements. In those cases these data are recorded here (see metadata file for further explanations)"
+    },
+    {
+        "TableName": "Ovis Bone Metrics",
+        "FieldName": "StatMet Bd Max",
+        "Description": "Some publications provide only tables with statistical summaries of specific osteometric measurements. In those cases these data are recorded here (see metadata file for further explanations)"
+    },
+    {
+        "TableName": "Ovis Bone Metrics",
+        "FieldName": "StatMet Bd MW",
+        "Description": "Some publications provide only tables with statistical summaries of specific osteometric measurements. In those cases these data are recorded here (see metadata file for further explanations)"
+    },
+    {
+        "TableName": "Ovis Bone Metrics",
+        "FieldName": "StatMet Bd SD",
+        "Description": "Some publications provide only tables with statistical summaries of specific osteometric measurements. In those cases these data are recorded here (see metadata file for further explanations)"
+    },
+    {
+        "TableName": "Ovis Bone Metrics",
+        "FieldName": "StatMet Met GLCalcaneus Min",
+        "Description": "Some publications provide only tables with statistical summaries of specific osteometric measurements. In those cases these data are recorded here (see metadata file for further explanations)"
+    },
+    {
+        "TableName": "Ovis Bone Metrics",
+        "FieldName": "StatMet Met GLCalcaneus Max",
+        "Description": "Some publications provide only tables with statistical summaries of specific osteometric measurements. In those cases these data are recorded here (see metadata file for further explanations)"
+    },
+    {
+        "TableName": "Ovis Bone Metrics",
+        "FieldName": "StatMet Met GLCalcaneus MW",
+        "Description": "Some publications provide only tables with statistical summaries of specific osteometric measurements. In those cases these data are recorded here (see metadata file for further explanations)"
+    },
+    {
+        "TableName": "Ovis Bone Metrics",
+        "FieldName": "StatMet Met GLCalcaneus SD",
+        "Description": "Some publications provide only tables with statistical summaries of specific osteometric measurements. In those cases these data are recorded here (see metadata file for further explanations)"
+    },
+    {
+        "TableName": "Ovis Bone Metrics",
+        "FieldName": "StatMet Talus GLl Min",
+        "Description": "Some publications provide only tables with statistical summaries of specific osteometric measurements. In those cases these data are recorded here (see metadata file for further explanations)"
+    },
+    {
+        "TableName": "Ovis Bone Metrics",
+        "FieldName": "StatMet Talus GLl Max",
+        "Description": "Some publications provide only tables with statistical summaries of specific osteometric measurements. In those cases these data are recorded here (see metadata file for further explanations)"
+    },
+    {
+        "TableName": "Ovis Bone Metrics",
+        "FieldName": "StatMet Talus GLl MW",
+        "Description": "Some publications provide only tables with statistical summaries of specific osteometric measurements. In those cases these data are recorded here (see metadata file for further explanations)"
+    },
+    {
+        "TableName": "Ovis Bone Metrics",
+        "FieldName": "StatMet Talus GLl SD",
+        "Description": "Some publications provide only tables with statistical summaries of specific osteometric measurements. In those cases these data are recorded here (see metadata file for further explanations)"
+    },
+    {
+        "TableName": "Ovis Bone Metrics",
+        "FieldName": "ID Ovis Bone Metrics",
+        "Description": "Unique ID-number"
+    }
+]
