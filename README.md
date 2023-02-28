@@ -38,7 +38,7 @@
     - 03 SPOOLS.xlsx
     
    
-   **Additional Files**
+   **Additional Files:**
 
     -README.md
     -Final Report and Additional Information About this Repository_.pdf
