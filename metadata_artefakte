@@ -1,0 +1,78 @@
+[
+  {
+    "Feldname": "Katalognummer",
+    "Inhaltsbeschreibung eng.": "Unique number for each Spindle Whorl in the publication. It consists of a two-digit number for the site, seperated by underscore _ from a three-digit find number. The 21 sites are sorted by ascending Latitude and therefore the sites are sorted from West to East."
+  },
+  {
+    "Feldname": "Excavation Number",
+    "Inhaltsbeschreibung eng.": "The excavation number is one of the numbers asigned to objects by excavators or museums as unique identifier."
+  },
+  {
+    "Feldname": "Formentyp",
+    "Inhaltsbeschreibung eng.": "Each spindle whorl in the assemblage is typologicaly asigned to one of the five predefined types: BIKON, DISK, HLW, KON, PLKN"
+  },
+  {
+    "Feldname": "Find_Material",
+    "Inhaltsbeschreibung eng.": "Five different raw materials of whorls are distinguished: Bitumen, Ceramic, Bone, Clay, Stone"
+  },
+  {
+    "Feldname": "Decoration",
+    "Inhaltsbeschreibung eng.": "Following types of surface treatment were differentiated:  applications, painting, Furchenstich, notches, incised lines, punctuation, plain."
+  },
+  {
+    "Feldname": "Preservation_Status",
+    "Inhaltsbeschreibung eng.": "5 Categories of preservation were documented under this heading:  complete, small fragments missing, partial (more than half), fragmentary (less than half), unfinished (half-product)"
+  },
+  {
+    "Feldname": "Weight_in_g",
+    "Inhaltsbeschreibung eng.": "The mass  of the whorls has been determined in gram"
+  },
+  {
+    "Feldname": "Height_in_mm",
+    "Inhaltsbeschreibung eng.": "The height of a whorl is measured along the perforation and documented in millimeter"
+  },
+  {
+    "Feldname": "Diameter_in _mm",
+    "Inhaltsbeschreibung eng.": "The diameter of a whorl is measured orthogonal to the perforation at the widest point, in millimeter"
+  },
+  {
+    "Feldname": "Hole-diameter_in_mm",
+    "Inhaltsbeschreibung eng.": "The diameter of the perforation at its smallest point"
+  },
+  {
+    "Feldname": "Weight if not complete",
+    "Inhaltsbeschreibung eng.": "The mass  of partially preserved whorls"
+  },
+  {
+    "Feldname": "Estimated full weight",
+    "Inhaltsbeschreibung eng.": "Estimations of percentage of preservation, allow for calculations of weight."
+  },
+  {
+    "Feldname": "Site Name",
+    "Inhaltsbeschreibung eng.": "21 Sites in western Asia included in this study"
+  },
+  {
+    "Feldname": "Longitude",
+    "Inhaltsbeschreibung eng.": "Geographical longitude coordinate of the Site"
+  },
+  {
+    "Feldname": "Latitude",
+    "Inhaltsbeschreibung eng.": "Geographical latitude coordinate of the Site"
+  },
+  {
+    "Feldname": "Museum/Archive_Name",
+    "Inhaltsbeschreibung eng.": "Name of the Archive that stores the object at the time of research"
+  },
+  {
+    "Feldname": "Zeitscheibe",
+    "Inhaltsbeschreibung eng.": "Approximate Dates of the whorls, by half millennia"
+  },
+  {
+    "Feldname": "Museum Number",
+    "Inhaltsbeschreibung eng.": "Number given to the object by the storing archive/museum"
+  },
+  {
+    "Feldname": "Literatur",
+    "Inhaltsbeschreibung eng.": "Reference to the object in other publications (Books/databases)"
+  }
+]
