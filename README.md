@@ -11,15 +11,19 @@
     - NOAA_data_management_plan.pdf
 
 **Files relating to the *Exzellenzcluster Topoi 264* repository *"The Textile Revolution"* (WOLL):**
+
   *- From WOLL's database "Archeological artefacts":*
+  
     - metadata_artefakte (.json)
     - wollschaf_artefakte.csv
     
  *- From WOLL's research object "Pollen Database":*
+ 
     - pollen_field_doku (.json)
     - wollschaf_pollen (1).csv
     
   *- From WOLL's research object "Bone Database":*
+  
     - Wollschaf_Bone_Database_Metadata_2019_09_12.pdf
     - knochen_field_doku (.json)
     - 01 Site Core Data.xls
@@ -28,6 +32,7 @@
     - 04 Bibliography.xls
     
   *- From WOLL's research object "Textile Tool Database":*
+  
     - metadata_tools (.json)
     - TEXTILE TOOL DATASET.pdf
     - 03 SPOOLS.xlsx
