@@ -55,7 +55,7 @@
 8) **Wollschaf_Bone_Database_Metadata_2019_09_12.pdf:** A short paper providing geographical and chronological frames to the archaeozoological analysis of domestic sheep bones collected and anaylyzed between southwest Asia and southeast Europe in the 7th-2nd millenium BC.
 9) **knochen_field_doku:** Metadata concerning a set of several hundred Neolithic/bronze age bones from *Ovis/Capra* domestic animals, includingkey statistics.
 10) **01 Site Core Data.xls:** Table containing site coordinates, settlement category, chronological range, culture group, bone counts, site name, and site IDs.
-11) **02 Site Bone Data.xls:** Table concerning site name, location, as well as bone counts, and statistics (sex, age, withers height, etc.).
+11) **02 Site Bone Data(01).xls:** Table concerning site name, location, as well as bone counts, and statistics (sex, age, withers height, etc.).
 12) **03 Ovis Bone Metrics.xls:** Table containing information on specific bone metrics, including bone ID, skeletal element identifiers, and reference bone metrics.
 13) **04 Bibliography.xls:** A comprehensive bibliography (reference in database, full academic reference) of all authors cited in the "Bone Database" project.
 14) **metadata_tools:** Metadata concerning a set of 1048 textile tools sampled within a site cluster on the Pannonian Plain, relating to raw fiber processing.
