@@ -4,7 +4,7 @@
 
 **Breakdown of Repository Contents:**
 
-<sub> **System of folders:** This repository is divided into two folders with two additional files. One folder corresponds to the dataset from NOAA, and the other for files originating from the repository WOLL. For ease of use, **all files from NOAA appear in a folder titled "Hawaiian Monk Seal Telemetry Tag Deployments"**, and **all files from WOLL (provided by the *Exzellenzcluster Topoi 264*) are located in a folder titled "The Textile Revolution"**. The folder containing files from the repository WOLL has four subfolders for each of its datasets, with their contents displayed below.</sub>
+<sub> **System of folders:** This repository is divided into two folders, with two additional files not relating to any folder. One folder corresponds to the dataset from NOAA, and the other for files originating from the repository WOLL. For ease of use, **all files from NOAA appear in a folder titled "Hawaiian Monk Seal Telemetry Tag Deployments"**, and **all files from WOLL (provided by the *Exzellenzcluster Topoi 264*) are located in a folder titled "The Textile Revolution"**. The folder containing files from the repository WOLL has four subfolders for each of its datasets, with their contents displayed below.</sub>
 
 
 **Files from NOAA's *"Hawaiian Monk Seal Telemetry Tag Deployments"* Database, located in a folder of the same name:**
