@@ -48,6 +48,7 @@
 
 
 **Purpose of Files in Respository:**
+0) **README.md:** A brief explanation of this repository, including the source of its data, their location and file contents, as well asadvisories for ease of navigation.
 1) **ISO-19139 Metadata:** Metadata corresponding to the ongoing collection of live telemetry studies of Hawaiian monk seals by NOAA's Hawaiian Monk Seal Research Program.
 2) **PSD_HMSRP_Telemetry_Tag_Deployments.csv:** Table containing seal IDs, ages, sexes, names and nicknames, as well as dates of tracking and satellite/transmission locations.
 3) **NOAA_data_management_plan.pdf:** A brief description of NOAA's Master Data Management Plan, including the study's name, summary, scope, agents, institutions, and contact information.
