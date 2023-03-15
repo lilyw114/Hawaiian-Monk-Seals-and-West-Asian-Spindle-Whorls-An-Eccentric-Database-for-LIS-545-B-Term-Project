@@ -4,25 +4,28 @@
 
 **Breakdown of Repository Contents:**
 
-**Files relating to NOAA's *"Hawaiian Monk Seal Telemetry Tag Deployments"* Database:**
+<sub> This repository is divided into two folders, one for the dataset from NOAA and another for files originating from the repository WOLL. All files from NOAA appear under a folder titled "Hawaiian Monk Seal Telemetry Tag Deployments", and all files from WOLL (provided by the *Exzellenzcluster Topoi 264*) are located in a folder titled "The Textile Revolution". The folder containing files from the repository WOLL has four subfolders for each of its datasets, explained below.</sub>
+
+
+**Files from NOAA's *"Hawaiian Monk Seal Telemetry Tag Deployments"* Database, located in a folder of the same name:**
 
     - ISO-19139 Metadata (.xml)
     - PSD_HMSRP_Telemetry_Tag_Deployments.csv
     - NOAA_data_management_plan.pdf
 
-**Files relating to the *Exzellenzcluster Topoi 264* repository *"The Textile Revolution"* (abbrviated as WOLL by their research team):**
+**Files relating to the *Exzellenzcluster Topoi 264* repository *"The Textile Revolution"* (abbrviated as WOLL by their research team), located in a folder of the same name:**
 
-  *- From WOLL's database, under the subfolder "Archeological artefacts":*
+  *- From WOLL's database, located in the subfolder "Archeological artefacts":*
   
     - metadata_artefakte (.json)
     - wollschaf_artefakte.csv
     
- *- From WOLL's dataabse, under the subfolder "Pollen Database":*
+ *- From WOLL's dataabse, located the subfolder "Pollen Database":*
  
     - pollen_field_doku (.json)
     - wollschaf_pollen (1).csv
     
-  *- From WOLL's database, under the subfolder "Bone Database":*
+  *- From WOLL's database, located in the subfolder "Bone Database":*
   
     - Wollschaf_Bone_Database_Metadata_2019_09_12.pdf
     - knochen_field_doku (.json)
@@ -31,7 +34,7 @@
     - 03 Ovis Bone Metrics.xls
     - 04 Bibliography.xls
     
-  *- From WOLL's database, under the subfolder "Textile Tool Database":*
+  *- From WOLL's database, located in the subfolder "Textile Tool Database":*
   
     - metadata_tools (.json)
     - TEXTILE TOOL DATASET.pdf
